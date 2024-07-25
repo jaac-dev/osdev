@@ -1,5 +1,0 @@
-/home/jack/Projects/osdev/build/debug/CMakeFiles/edit_cache.dir
-/home/jack/Projects/osdev/build/debug/CMakeFiles/rebuild_cache.dir
-/home/jack/Projects/osdev/build/debug/boot/CMakeFiles/stage0.dir
-/home/jack/Projects/osdev/build/debug/boot/CMakeFiles/edit_cache.dir
-/home/jack/Projects/osdev/build/debug/boot/CMakeFiles/rebuild_cache.dir
