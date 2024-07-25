@@ -1,0 +1,9 @@
+/home/jack/.cache/JetBrains/RemoteDev/dist/3c93f93f4ec3e_CLion-242.20224.66/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/jack/.cache/JetBrains/RemoteDev/dist/3c93f93f4ec3e_CLion-242.20224.66/bin/ninja/linux/x64/ninja -DCMAKE_C_COMPILER=/home/jack/Tools/gcc-cross-compiler/out/bin/x86_64-elf-gcc -DCMAKE_CXX_COMPILER=/home/jack/Tools/gcc-cross-compiler/out/bin/x86_64-elf-gcc -G Ninja -S /home/jack/Projects/osdev -B /home/jack/Projects/osdev/build/debug
+-- The C compiler identification is GNU 12.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (1.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/jack/Projects/osdev/build/debug
